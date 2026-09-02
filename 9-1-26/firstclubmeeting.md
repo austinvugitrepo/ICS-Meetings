@@ -5,7 +5,7 @@
 `` This is the first meeting where everyone meets up, as Fall 2026 starts, the meeting is about what exciting things are gonna happen next semester. ``
 
 ## Start Time -> 4:30 PM
-## End Time ->  5:50 PM
+## End Time ->  5:40 PM
 - Adrien present slides for newcoming freshmen and fun meetings planned for the semester!
 - Club proposes more social activities and jersey.
 - Jacob Hopkins introduces himself and pitches the Youth Code Jam event which is on September 26th, contact him for more info.
