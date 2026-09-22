@@ -10,7 +10,6 @@
 
 - Adrien starts off the meeting discussing the training, he and the officers did this weekend.
 - He goes over slides that goes over Student Organization Policy Training (Fall 2026).
-- I'm not gonna lie he's going over the slides too fast for me to take notes so if you wanna know more ask him for the slides.
 - We go over the risk management slides to make sure no one gets hurt and stuff.
 - Rylan goes over his epic beach cleanup proposal! This project gonna change history! It's basically gonna involve building an AI robot to help clean up our beaches as a wonderful ICS/TAMUCC inhouse project!
 - Layden promotes the Islander Hackathon! This is the 2nd hackathon that the school is hosted!
